@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.health_medicare_application.app-mergeDebugResources-61:/values-pl/values-pl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Someone\\.gradle\\caches\\transforms-3\\dbfdc9021f08ff7c04f58cc52761406e\\transformed\\core-1.9.0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3781",
+                        "endColumns": "100",
+                        "endOffsets": "3877"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Someone\\.gradle\\caches\\transforms-3\\fb54a49a51456a9a978b3e0ff37a665d\\transformed\\play-services-basement-18.1.0\\res\\values-pl\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "135",
+                        "endOffsets": "330"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "1352",
+                        "endColumns": "139",
+                        "endOffsets": "1487"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Someone\\.gradle\\caches\\transforms-3\\b9384bb747e96d18b354b3b163cc97d8\\transformed\\ui-1.4.3\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,285,394,499,576,653,746,836,919,990,1060,1143,1230,1302,1384,1452",
+                        "endColumns": "94,84,108,104,76,76,92,89,82,70,69,82,86,71,81,67,119",
+                        "endOffsets": "195,280,389,494,571,648,741,831,914,985,1055,1138,1225,1297,1379,1447,1567"
+                    },
+                    "to": {
+                        "startLines": "2,3,23,24,26,28,29,30,31,32,33,34,35,36,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,2614,2723,2900,3055,3132,3225,3315,3398,3469,3539,3622,3709,3882,3964,4032",
+                        "endColumns": "94,84,108,104,76,76,92,89,82,70,69,82,86,71,81,67,119",
+                        "endOffsets": "195,280,2718,2823,2972,3127,3220,3310,3393,3464,3534,3617,3704,3776,3959,4027,4147"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Someone\\.gradle\\caches\\transforms-3\\1a70f2ec1b762ce6abb16f74f34789e5\\transformed\\material3-1.0.0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,132,204",
+                        "endColumns": "76,71,77",
+                        "endOffsets": "127,199,277"
+                    },
+                    "to": {
+                        "startLines": "4,25,27",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "285,2828,2977",
+                        "endColumns": "76,71,77",
+                        "endOffsets": "357,2895,3050"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Someone\\.gradle\\caches\\transforms-3\\66816f1702c5fc18843d6432b9d97575\\transformed\\play-services-base-18.0.1\\res\\values-pl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,293,457,575,681,828,949,1056,1151,1318,1423,1594,1718,1873,2030,2095,2157",
+                        "endColumns": "99,163,117,105,146,120,106,94,166,104,170,123,154,156,64,61,79",
+                        "endOffsets": "292,456,574,680,827,948,1055,1150,1317,1422,1593,1717,1872,2029,2094,2156,2236"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "362,466,634,756,866,1017,1142,1253,1492,1663,1772,1947,2075,2234,2395,2464,2530",
+                        "endColumns": "103,167,121,109,150,124,110,98,170,108,174,127,158,160,68,65,83",
+                        "endOffsets": "461,629,751,861,1012,1137,1248,1347,1658,1767,1942,2070,2229,2390,2459,2525,2609"
+                    }
+                }
+            ]
+        }
+    ]
+}

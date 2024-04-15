@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health_MediCare_Application</string>
+    <string name="default_web_client_id" translatable="false">99338467384-luu2nb85qi63t3eqbvrfrgl896mcigvg.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">99338467384</string>
+    <string name="google_api_key" translatable="false">AIzaSyCtlRnqbF3dAoF20u0kS-8bi2YnvLqvf5M</string>
+    <string name="google_app_id" translatable="false">1:99338467384:android:647ece38fb2e3d8edb4ecd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCtlRnqbF3dAoF20u0kS-8bi2YnvLqvf5M</string>
+    <string name="google_storage_bucket" translatable="false">health-medicare-application.appspot.com</string>
+    <string name="project_id" translatable="false">health-medicare-application</string>
+    <string name="title_activity_login_user">LoginUser</string>
+    <style name="Theme.Health_MediCare_Application" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
