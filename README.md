@@ -39,7 +39,8 @@ Diagram showing the Control flow of the Project
 ![Messaging.PNG](screenshot%2FMessaging.PNG)
 ![Sleep Track.PNG](screenshot%2FSleep%20Track.PNG)
 
-8.	ADVANTAGES & DISADVANTAGES :
+7.	ADVANTAGES & DISADVANTAGES :
+   
 •	ADVANTAGES :
 Calorie Tracking : User can know the BMI, amount of Calorie to be consumed based on Physical Activity and Diet Type. Carbohydrate, Protein, Fat Consumption in Calorie and Gram per day.
 Health News : Users are aware about Latest Daily Health News in and around the World easily.
@@ -47,16 +48,20 @@ Sleep Track : Users can track their Nap / Sleep easily and maintain a healthy Sl
 Maps Search : User can easily Locate Hospitals in and around their location with a minimal time in case of Emergency.
 Emergency Dial : In case of Emergency, the user can directly call/message the important helpline from the Application.
 Health Notifications : Notifications include Wake Up (7.30 AM Daily), Health News (8.00 AM Daily), Drink Water Reminder (12.30 PM Daily), Calorie Manage (12.00 PM every Sunday). These notifications are helpful to the user.
+
 •	DISADVANTAGES :
 Unable to Consult a doctor: Users cannot Book an Appointment / Consult a doctor.
 Unable to Order Medicine : Users cannot Order Medicine that are prescribed by the Doctor.
 Unable to make Payments : Users cannot make Payments via the App. A user cannot pay the Doctor Consultation Fee / Medicine Purchase Payment.
 Login Every time : The user has to login Every time with his credentials.
-9.	APPLICATIONS :
+
+08.	APPLICATIONS :
 The App when deployed along with the Above Disadvantages can be launched in Play store.
 Any Person can download the App and can make full use of it. Any user who wants to maintain a Healthy Lifestyle with all the Facilities can make use of this App.
-10.	CONCLUSION :
+
+09.	CONCLUSION :
 Summarizing Entire Work, we have developed a Medical Care Application, which can act as one Stop Application for All health-related issues. For Now, we have done only 7 modules (Login, Dashboard, Calorie Manage, Health News Article, Sleep Tracker, Maps Search, Emergency Dial). Along with the Reminder Notifications, the App can be useful in Day- to-Day Life.
-11.	FUTURE SCOPE :
+
+10.	FUTURE SCOPE :
 In the Future, we are planning to overcome current Disadvantages by including Doctor Search according to Specific Location, Direct Consultation with Doctor (Call/Video), Book an Appointment with Doctor, Order Medicine According to the Doctor Prescription, Cart, Track Medicine Order, Payment Portal, Health Insurance. With this the App becomes a Complete Package, thus can be launched in Play store.
 
